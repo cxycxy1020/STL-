@@ -1,3 +1,5 @@
+//author:chenxinyi
+//date:20190923
 #include<map>
 #include <iostream>
 #include <string>
@@ -23,7 +25,5 @@ int main()
 	}
 
 	cout << "m['H']:" << m['H'] << endl;
-	cout << "m['W']:" << m['W'] << endl;
-		
-
+	cout << "m['W']:" << m['W'] << endl;	
 }
